@@ -1,0 +1,30 @@
+id	39936
+sala_id	10
+magistrado_id	28
+user_id	30
+tipo_juicio_id	7
+sentido_id	4
+tipo_sentencia	1
+resolucion	None
+materia_id	4
+delito_id	22
+accion_especifica_id	None
+accion_simultanea_id	None
+numero	392
+periodo	2020
+derivado	None
+file	sala_10/39936.pdf
+fecha_publicacion	13-06-2022
+perspectiva_genero	2
+principio_ninez	2
+menores	None
+created_at	2022-06-13 14:03:58
+updated_at	2022-06-13 14:03:58
+deleted_at	None
+salas_data	{'id': 10, 'nombre': 'DÉCIMA SALA ESPECIALIZADA EN JUSTICIA INTEGRAL PARA ADOLESCENTES Y PENAL', 'created_at': '2021-01-16 09:35:53', 'updated_at': '2021-01-16 09:35:53', 'deleted_at': None}
+materia_data	{'id': 4, 'nombre': 'Penal', 'created_at': '2021-05-14 17:56:21', 'updated_at': '2021-05-14 17:56:21', 'deleted_at': None}
+tipo_juicio_data	{'id': 7, 'materia_id': 4, 'nombre': 'PENAL TRADICIONAL', 'created_at': '2021-05-25 00:00:00', 'updated_at': '2021-05-25 00:00:00', 'deleted_at': None, 'materia_nombre': 'Penal'}
+delito_data	{'id': 22, 'materia_id': 4, 'nombre': 'HOMICIDIO CALIFICADO', 'created_at': '2017-03-22 20:57:59', 'updated_at': '2017-03-22 20:57:59', 'deleted_at': None, 'materia_nombre': 'Penal'}
+accion_especifica_data	None
+accion_simultanea_data	None
+sentido_data	{'id': 4, 'nombre': 'REPONER PROCEDIMIENTO', 'created_at': '2022-01-23 19:18:54', 'updated_at': '2022-01-23 19:18:54', 'deleted_at': None}
