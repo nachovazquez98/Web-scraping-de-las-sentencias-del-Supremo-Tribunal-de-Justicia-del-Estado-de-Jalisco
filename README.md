@@ -7,4 +7,4 @@ Estos scripts descargan las sentencias públicas del delito que el usuario ingre
 - stjjalisco_sentencias_dict.ipynb: un notebook que genero la lista del número de sentencias de cada delito adentro del portal
 - stjjalisco_sentencias_webscraping: es el script que descarga las sentencias en formato pdf del delito/materia especificado por el usuario
 
-![Screenshot](e92846e3-2441-46a1-81c5-1b3f2d58bfda.png)
+![Screenshot](sentencias.png)
